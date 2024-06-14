@@ -17,12 +17,12 @@ const mailOptions = {
   from: 'sodu_service@capital-bus.com.tw',
   to: 'winer909@gmail.com',
   subject: '[首都客運]會員EMAIL通知測試',
-  text: ``
+  
           };
 
 const sendMail = (email) => {
   mailOptions.to=email;
-  mailOptions.text =`<!DOCTYPE html>
+  mailOptions.html =`<!DOCTYPE html>
   <html xmlns:st1 xmlns:o>
   <head>
       <title>首都客運-加入會員通知函</title>
