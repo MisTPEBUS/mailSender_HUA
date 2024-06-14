@@ -94,11 +94,11 @@ const sendMail = (email) => {
               如欲更新您的個人資料、密碼或查詢訂單資料，請於驗證後至【會員專區】修改及查詢。<br><br>
               首都客運關心您，祝您旅途愉快！
           </div>
-          <!-- <div class="footer">
-              <img src="https://imgs.utiki.com.tw/Data/CTBUS/Mail/Template/images/logo.gif" width="280px" alt="首都客運 Logo">
+           <div class="footer">
+              <img src="https://www.capitalbusgroup.com.tw/CTBUS/img/logo.svg" width="280px" alt="首都客運 Logo">
               <br>
               客服時間 : 周一至周五AM9:00~AM12:00;PM 13:00~PM18:00(國定例假日除外)
-          </div> -->
+          </div> 
       </div>
   </body>
   </html>
