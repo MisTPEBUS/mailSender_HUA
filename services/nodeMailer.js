@@ -89,7 +89,7 @@ const sendMail = (email) => {
               感謝您成為首都客運會員。由於您長時間未登入或操作，<br><br>
               請您在下次購票時透過下方連結或是到官方網站進行重新會員驗證：<br><br>
               ．會員信箱：${email}<br><br>
-              ．重新會員驗證網址列：<br><br>
+              ．重新會員驗證網址列：
               <a href='https://www.capitalbusgroup.com.tw/CTBUS_PORTAL/Services/CTP0601API_Q03.aspx?DATA=qyVp38OwkJBkcoPAr4s6O4R4w91E/+/V41xR6qLqCcx1MHKctwk/XQ=='>請點我進行登入驗證</a><br><br>
               如欲更新您的個人資料、密碼或查詢訂單資料，請於驗證後至【會員專區】修改及查詢。<br><br>
               首都客運關心您，祝您旅途愉快！
