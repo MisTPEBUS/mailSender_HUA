@@ -90,12 +90,12 @@ const sendMail = (email) => {
               請您在下次購票時透過下方連結或是到官方網站進行重新會員驗證：<br><br>
               ．會員信箱：${email}<br><br>
               ．重新會員驗證網址列：
-              <a href='https://www.capitalbusgroup.com.tw/CTBUS_PORTAL/Services/CTP0601API_Q03.aspx?DATA=qyVp38OwkJBkcoPAr4s6O4R4w91E/+/V41xR6qLqCcx1MHKctwk/XQ=='>請點我進行登入驗證</a><br><br>
+              <a href='https://www.capitalbusgroup.com.tw/CTBUS/member/login.html'>請點我進行登入驗證</a><br><br>
               如欲更新您的個人資料、密碼或查詢訂單資料，請於驗證後至【會員專區】修改及查詢。<br><br>
               首都客運關心您，祝您旅途愉快！
           </div>
            <div class="footer">
-              <img src="https://www.capitalbusgroup.com.tw/CTBUS/img/logo.svg" width="280px" alt="首都客運 Logo">
+              <img src="https://storage.googleapis.com/fir-express-80358.appspot.com/images/6005bd29-3f95-4395-86c5-0cd4f20b3282.png?GoogleAccessId=firebase-adminsdk-42otj%40fir-express-80358.iam.gserviceaccount.com&Expires=16756675200&Signature=ptC2mOG4%2Fy6oqUinavNO8vx%2BHRy6%2Brcmop0a8FDBkQPHOiAb%2Bg7N0JqMP5FiHzkAJvrySEbJF7QgWyG7jACwkmG4wb06WKGuMfuI9VmRF8DbSyHf6fP0WOrVaJqbsexlePu36lh6JcLIGeaIuFDuLcrVfGBt9tMmh18Pp7OG4oQ5cqQkJDR1KUhWtyOAIb47mF4XV4HRWpSuBe8ZIAqH4eJMPLu04ATxP0LEXkihsbvhiTL9LYVkK18jBESThTNTP8dSsmkGhDmjObspmDtdT%2BfZi39H%2BSO%2FHK3LjDW05sz3WwhSDTZAxtyiK8CiRcti8FHRUo3PRdLLOsgm8IOHSw%3D%3D" width="280px" alt="首都客運 Logo">
               <br>
               客服時間 : 周一至周五AM9:00~AM12:00;PM 13:00~PM18:00(國定例假日除外)<br>
               客服電話 : (03)-833-8800<br>
