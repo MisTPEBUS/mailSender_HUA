@@ -97,7 +97,8 @@ const sendMail = (email) => {
            <div class="footer">
               <img src="https://www.capitalbusgroup.com.tw/CTBUS/img/logo.svg" width="280px" alt="首都客運 Logo">
               <br>
-              客服時間 : 周一至周五AM9:00~AM12:00;PM 13:00~PM18:00(國定例假日除外)
+              客服時間 : 周一至周五AM9:00~AM12:00;PM 13:00~PM18:00(國定例假日除外)<br>
+              客服電話 : (03)-833-8800<br>
           </div> 
       </div>
   </body>
