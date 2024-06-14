@@ -1,0 +1,5559 @@
+[
+  {
+    "RouteUID": "THB1570",
+    "RouteID": "1570",
+    "RouteName": {
+      "Zh_tw": "1570",
+      "En": "1570"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157001",
+    "SubRouteID": "157001",
+    "SubRouteName": {
+      "Zh_tw": "1570",
+      "En": "1570"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB303191",
+        "StopID": "303191",
+        "StopName": {
+          "zh_tw": "五結",
+          "en": "Wujie Stop"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.6902504,
+          "PositionLon": 121.7913073
+        },
+        "StationID": "137571",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB307658",
+        "StopID": "307658",
+        "StopName": {
+          "zh_tw": "捷運台北101/世貿站(信義)",
+          "en": "MRT Taipei 101/World Trade Center Sta.(Xinyi)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.033037,
+          "PositionLon": 121.564501
+        },
+        "StationID": "141964",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1570",
+    "RouteID": "1570",
+    "RouteName": {
+      "Zh_tw": "1570",
+      "En": "1570"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157002",
+    "SubRouteID": "157002",
+    "SubRouteName": {
+      "Zh_tw": "1570",
+      "En": "1570"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB293152",
+        "StopID": "293152",
+        "StopName": {
+          "zh_tw": "五結",
+          "en": "Wu Jie"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.688142,
+          "PositionLon": 121.791151
+        },
+        "StationID": "131406",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1570",
+    "RouteID": "1570",
+    "RouteName": {
+      "Zh_tw": "1570",
+      "En": "1570"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1570A2",
+    "SubRouteID": "1570A2",
+    "SubRouteName": {
+      "Zh_tw": "1570A",
+      "En": "1570A"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB293152",
+        "StopID": "293152",
+        "StopName": {
+          "zh_tw": "五結",
+          "en": "Wu Jie"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.688142,
+          "PositionLon": 121.791151
+        },
+        "StationID": "131406",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1571",
+    "RouteID": "1571",
+    "RouteName": {
+      "Zh_tw": "1571",
+      "En": "1571"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157101",
+    "SubRouteID": "157101",
+    "SubRouteName": {
+      "Zh_tw": "1571",
+      "En": "1571"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB308966",
+        "StopID": "308966",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.751301,
+          "PositionLon": 121.759368
+        },
+        "StationID": "142994",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB300147",
+        "StopID": "300147",
+        "StopName": {
+          "zh_tw": "壯圍",
+          "en": "Jhuangwei"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.77001,
+          "PositionLon": 121.77925
+        },
+        "StationID": "136268",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB307658",
+        "StopID": "307658",
+        "StopName": {
+          "zh_tw": "捷運台北101/世貿站(信義)",
+          "en": "MRT Taipei 101/World Trade Center Sta.(Xinyi)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.033037,
+          "PositionLon": 121.564501
+        },
+        "StationID": "141964",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1571",
+    "RouteID": "1571",
+    "RouteName": {
+      "Zh_tw": "1571",
+      "En": "1571"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157102",
+    "SubRouteID": "157102",
+    "SubRouteName": {
+      "Zh_tw": "1571",
+      "En": "1571"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB291939",
+        "StopID": "291939",
+        "StopName": {
+          "zh_tw": "壯圍",
+          "en": "Jhuangwei"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.76947,
+          "PositionLon": 121.77882
+        },
+        "StationID": "130631",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB308967",
+        "StopID": "308967",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.751419,
+          "PositionLon": 121.759251
+        },
+        "StationID": "110088",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1571",
+    "RouteID": "1571",
+    "RouteName": {
+      "Zh_tw": "1571",
+      "En": "1571"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1571A1",
+    "SubRouteID": "1571A1",
+    "SubRouteName": {
+      "Zh_tw": "1571A",
+      "En": "1571A"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB308966",
+        "StopID": "308966",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.751301,
+          "PositionLon": 121.759368
+        },
+        "StationID": "142994",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB307658",
+        "StopID": "307658",
+        "StopName": {
+          "zh_tw": "捷運台北101/世貿站(信義)",
+          "en": "MRT Taipei 101/World Trade Center Sta.(Xinyi)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.033037,
+          "PositionLon": 121.564501
+        },
+        "StationID": "141964",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1571",
+    "RouteID": "1571",
+    "RouteName": {
+      "Zh_tw": "1571",
+      "En": "1571"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1571A2",
+    "SubRouteID": "1571A2",
+    "SubRouteName": {
+      "Zh_tw": "1571A",
+      "En": "1571A"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB291939",
+        "StopID": "291939",
+        "StopName": {
+          "zh_tw": "壯圍",
+          "en": "Jhuangwei"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.76947,
+          "PositionLon": 121.77882
+        },
+        "StationID": "130631",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB308967",
+        "StopID": "308967",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.751419,
+          "PositionLon": 121.759251
+        },
+        "StationID": "110088",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1572",
+    "RouteID": "1572",
+    "RouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157201",
+    "SubRouteID": "157201",
+    "SubRouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB282650",
+        "StopID": "282650",
+        "StopName": {
+          "zh_tw": "中興文創",
+          "en": "Chung Hsing Cultural And Creative Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.695317,
+          "PositionLon": 121.769468
+        },
+        "StationID": "109701",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB256721",
+        "StopID": "256721",
+        "StopName": {
+          "zh_tw": "宜蘭縣政府",
+          "en": "Yilan County Government"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.73132,
+          "PositionLon": 121.76482
+        },
+        "StationID": "108036",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB253635",
+        "StopID": "253635",
+        "StopName": {
+          "zh_tw": "宜蘭運動公園",
+          "en": "Yilan Sport Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.740414,
+          "PositionLon": 121.758901
+        },
+        "StationID": "107815",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB308966",
+        "StopID": "308966",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.751301,
+          "PositionLon": 121.759368
+        },
+        "StationID": "142994",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB247514",
+        "StopID": "247514",
+        "StopName": {
+          "zh_tw": "四城",
+          "en": "Sicheng"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.78716,
+          "PositionLon": 121.76176
+        },
+        "StationID": "109466",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB258818",
+        "StopID": "258818",
+        "StopName": {
+          "zh_tw": "協天廟",
+          "en": "SieTian Temple"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.818897,
+          "PositionLon": 121.768772
+        },
+        "StationID": "108145",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257787",
+        "StopID": "257787",
+        "StopName": {
+          "zh_tw": "白雲路(頭城交流道)",
+          "en": "Baiyun Rd.(Toucheng Interchange)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.836878,
+          "PositionLon": 121.786881
+        },
+        "StationID": "124011",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB307658",
+        "StopID": "307658",
+        "StopName": {
+          "zh_tw": "捷運台北101/世貿站(信義)",
+          "en": "MRT Taipei 101/World Trade Center Sta.(Xinyi)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.033037,
+          "PositionLon": 121.564501
+        },
+        "StationID": "141964",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1572",
+    "RouteID": "1572",
+    "RouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157202",
+    "SubRouteID": "157202",
+    "SubRouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB257172",
+        "StopID": "257172",
+        "StopName": {
+          "zh_tw": "頭城交流道",
+          "en": "Toucheng Interchange"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.83665,
+          "PositionLon": 121.78559
+        },
+        "StationID": "124012",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB298983",
+        "StopID": "298983",
+        "StopName": {
+          "zh_tw": "湯圍溝",
+          "en": "Tangweigo"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.82665,
+          "PositionLon": 121.77164
+        },
+        "StationID": "135468",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB277802",
+        "StopID": "277802",
+        "StopName": {
+          "zh_tw": "協天廟",
+          "en": "SieTian Temple"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.81881,
+          "PositionLon": 121.768669
+        },
+        "StationID": "109962",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB292509",
+        "StopID": "292509",
+        "StopName": {
+          "zh_tw": "四城",
+          "en": "Sicheng"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.787319,
+          "PositionLon": 121.761515
+        },
+        "StationID": "109467",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB308967",
+        "StopID": "308967",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.751419,
+          "PositionLon": 121.759251
+        },
+        "StationID": "110088",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB258826",
+        "StopID": "258826",
+        "StopName": {
+          "zh_tw": "宜蘭運動公園",
+          "en": "Yilan Sport Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.740186,
+          "PositionLon": 121.758801
+        },
+        "StationID": "107814",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB281356",
+        "StopID": "281356",
+        "StopName": {
+          "zh_tw": "宜蘭縣政府",
+          "en": "Yilan County Government"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.730901,
+          "PositionLon": 121.764744
+        },
+        "StationID": "108038",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB258446",
+        "StopID": "258446",
+        "StopName": {
+          "zh_tw": "中興文創",
+          "en": "Chung Hsing Cultural And Creative Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.69527,
+          "PositionLon": 121.76926
+        },
+        "StationID": "109674",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1572",
+    "RouteID": "1572",
+    "RouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1572A2",
+    "SubRouteID": "1572A2",
+    "SubRouteName": {
+      "Zh_tw": "1572A",
+      "En": "1572A"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB257172",
+        "StopID": "257172",
+        "StopName": {
+          "zh_tw": "頭城交流道",
+          "en": "Toucheng Interchange"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.83665,
+          "PositionLon": 121.78559
+        },
+        "StationID": "124012",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB298983",
+        "StopID": "298983",
+        "StopName": {
+          "zh_tw": "湯圍溝",
+          "en": "Tangweigo"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.82665,
+          "PositionLon": 121.77164
+        },
+        "StationID": "135468",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB277802",
+        "StopID": "277802",
+        "StopName": {
+          "zh_tw": "協天廟",
+          "en": "SieTian Temple"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.81881,
+          "PositionLon": 121.768669
+        },
+        "StationID": "109962",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB292509",
+        "StopID": "292509",
+        "StopName": {
+          "zh_tw": "四城",
+          "en": "Sicheng"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.787319,
+          "PositionLon": 121.761515
+        },
+        "StationID": "109467",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB308967",
+        "StopID": "308967",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.751419,
+          "PositionLon": 121.759251
+        },
+        "StationID": "110088",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB258826",
+        "StopID": "258826",
+        "StopName": {
+          "zh_tw": "宜蘭運動公園",
+          "en": "Yilan Sport Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.740186,
+          "PositionLon": 121.758801
+        },
+        "StationID": "107814",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB281356",
+        "StopID": "281356",
+        "StopName": {
+          "zh_tw": "宜蘭縣政府",
+          "en": "Yilan County Government"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.730901,
+          "PositionLon": 121.764744
+        },
+        "StationID": "108038",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB258446",
+        "StopID": "258446",
+        "StopName": {
+          "zh_tw": "中興文創",
+          "en": "Chung Hsing Cultural And Creative Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.69527,
+          "PositionLon": 121.76926
+        },
+        "StationID": "109674",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1572",
+    "RouteID": "1572",
+    "RouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1572B1",
+    "SubRouteID": "1572B1",
+    "SubRouteName": {
+      "Zh_tw": "1572B",
+      "En": "1572B"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257787",
+        "StopID": "257787",
+        "StopName": {
+          "zh_tw": "白雲路(頭城交流道)",
+          "en": "Baiyun Rd.(Toucheng Interchange)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.836878,
+          "PositionLon": 121.786881
+        },
+        "StationID": "124011",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB307658",
+        "StopID": "307658",
+        "StopName": {
+          "zh_tw": "捷運台北101/世貿站(信義)",
+          "en": "MRT Taipei 101/World Trade Center Sta.(Xinyi)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.033037,
+          "PositionLon": 121.564501
+        },
+        "StationID": "141964",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1572",
+    "RouteID": "1572",
+    "RouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1572B2",
+    "SubRouteID": "1572B2",
+    "SubRouteName": {
+      "Zh_tw": "1572B",
+      "En": "1572B"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB257172",
+        "StopID": "257172",
+        "StopName": {
+          "zh_tw": "頭城交流道",
+          "en": "Toucheng Interchange"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.83665,
+          "PositionLon": 121.78559
+        },
+        "StationID": "124012",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1572",
+    "RouteID": "1572",
+    "RouteName": {
+      "Zh_tw": "1572",
+      "En": "1572"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1572C2",
+    "SubRouteID": "1572C2",
+    "SubRouteName": {
+      "Zh_tw": "1572C",
+      "En": "1572C"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB257172",
+        "StopID": "257172",
+        "StopName": {
+          "zh_tw": "頭城交流道",
+          "en": "Toucheng Interchange"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.83665,
+          "PositionLon": 121.78559
+        },
+        "StationID": "124012",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157901",
+    "SubRouteID": "157901",
+    "SubRouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303498",
+        "StopID": "303498",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.14011,
+          "PositionLon": 121.79957
+        },
+        "StationID": "124952",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB309433",
+        "StopID": "309433",
+        "StopName": {
+          "zh_tw": "海科館正門",
+          "en": "National Museum Of Marine Science &amp; Technology(Main Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.140161,
+          "PositionLon": 121.797412
+        },
+        "StationID": "143391",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303500",
+        "StopID": "303500",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.13967,
+          "PositionLon": 121.79545
+        },
+        "StationID": "15112",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259267",
+        "StopID": "259267",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.14091,
+          "PositionLon": 121.7924
+        },
+        "StationID": "124953",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305232",
+        "StopID": "305232",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.14193,
+          "PositionLon": 121.79057
+        },
+        "StationID": "139779",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303502",
+        "StopID": "303502",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.14473,
+          "PositionLon": 121.78555
+        },
+        "StationID": "124955",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB255368",
+        "StopID": "255368",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.14634,
+          "PositionLon": 121.78359
+        },
+        "StationID": "124956",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259366",
+        "StopID": "259366",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.1484,
+          "PositionLon": 121.78296
+        },
+        "StationID": "124957",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303504",
+        "StopID": "303504",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.15013,
+          "PositionLon": 121.78091
+        },
+        "StationID": "24803",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303536",
+        "StopID": "303536",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.15092,
+          "PositionLon": 121.77568
+        },
+        "StationID": "131916",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303509",
+        "StopID": "303509",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.15108,
+          "PositionLon": 121.77305
+        },
+        "StationID": "124992",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303507",
+        "StopID": "303507",
+        "StopName": {
+          "zh_tw": "二信中學",
+          "en": "Er Xin High School"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.14482,
+          "PositionLon": 121.76789
+        },
+        "StationID": "15047",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303511",
+        "StopID": "303511",
+        "StopName": {
+          "zh_tw": "祥豐市場",
+          "en": "XiangFeng Market"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.14228,
+          "PositionLon": 121.7643
+        },
+        "StationID": "138577",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303514",
+        "StopID": "303514",
+        "StopName": {
+          "zh_tw": "天主堂",
+          "en": "Chapel"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.141389,
+          "PositionLon": 121.7616
+        },
+        "StationID": "138578",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303518",
+        "StopID": "303518",
+        "StopName": {
+          "zh_tw": "中正區行政大樓",
+          "en": "Zhongzheng District Administration Building"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.14102,
+          "PositionLon": 121.75878
+        },
+        "StationID": "138580",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303538",
+        "StopID": "303538",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.13757,
+          "PositionLon": 121.749
+        },
+        "StationID": "124964",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB293838",
+        "StopID": "293838",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.134902,
+          "PositionLon": 121.746946
+        },
+        "StationID": "131919",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257429",
+        "StopID": "257429",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.131483,
+          "PositionLon": 121.744528
+        },
+        "StationID": "124965",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303512",
+        "StopID": "303512",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.059658,
+          "PositionLon": 121.585689
+        },
+        "StationID": "125694",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303516",
+        "StopID": "303516",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.051499,
+          "PositionLon": 121.56665
+        },
+        "StationID": "128127",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB305234",
+        "StopID": "305234",
+        "StopName": {
+          "zh_tw": "松山高中(基隆路)",
+          "en": "Songshan High School(Keelung Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.0444,
+          "PositionLon": 121.56619
+        },
+        "StationID": "127687",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB306027",
+        "StopID": "306027",
+        "StopName": {
+          "zh_tw": "聯合報",
+          "en": "United Daily News"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 25.04133,
+          "PositionLon": 121.56277
+        },
+        "StationID": "125696",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303520",
+        "StopID": "303520",
+        "StopName": {
+          "zh_tw": "交通部觀光署",
+          "en": "Tourism Administration, MOTC"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 25.041483,
+          "PositionLon": 121.555927
+        },
+        "StationID": "125697",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303522",
+        "StopID": "303522",
+        "StopName": {
+          "zh_tw": "捷運忠孝敦化站",
+          "en": "MRT Zhongxiao Dunhua Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 25.041577,
+          "PositionLon": 121.550241
+        },
+        "StationID": "125698",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303524",
+        "StopID": "303524",
+        "StopName": {
+          "zh_tw": "捷運忠孝復興站",
+          "en": "MRT Zhongxiao Fuxing Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 25.041772,
+          "PositionLon": 121.542599
+        },
+        "StationID": "138582",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303002",
+        "StopID": "303002",
+        "StopName": {
+          "zh_tw": "圓山轉運站(玉門)",
+          "en": "MRT Yuanshan Station (Yumen)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 25.072347,
+          "PositionLon": 121.520435
+        },
+        "StationID": "138289",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB157902",
+    "SubRouteID": "157902",
+    "SubRouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303002",
+        "StopID": "303002",
+        "StopName": {
+          "zh_tw": "圓山轉運站(玉門)",
+          "en": "MRT Yuanshan Station (Yumen)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.072347,
+          "PositionLon": 121.520435
+        },
+        "StationID": "138289",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303525",
+        "StopID": "303525",
+        "StopName": {
+          "zh_tw": "懷生國中",
+          "en": "Huai Sheng Junior High School"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.041537,
+          "PositionLon": 121.541075
+        },
+        "StationID": "25696",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303523",
+        "StopID": "303523",
+        "StopName": {
+          "zh_tw": "捷運忠孝敦化站",
+          "en": "MRT Zhongxiao Dunhua Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.04137749,
+          "PositionLon": 121.5503038
+        },
+        "StationID": "127698",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303521",
+        "StopID": "303521",
+        "StopName": {
+          "zh_tw": "交通部觀光署",
+          "en": "Tourism Administration, MOTC"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.041269,
+          "PositionLon": 121.555789
+        },
+        "StationID": "127699",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303517",
+        "StopID": "303517",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.051246,
+          "PositionLon": 121.566622
+        },
+        "StationID": "128230",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303513",
+        "StopID": "303513",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.05923,
+          "PositionLon": 121.585791
+        },
+        "StationID": "127700",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB252928",
+        "StopID": "252928",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.131226,
+          "PositionLon": 121.74462
+        },
+        "StationID": "124975",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB296562",
+        "StopID": "296562",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.134333,
+          "PositionLon": 121.746649
+        },
+        "StationID": "133583",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303539",
+        "StopID": "303539",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.13742,
+          "PositionLon": 121.74908
+        },
+        "StationID": "124976",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303519",
+        "StopID": "303519",
+        "StopName": {
+          "zh_tw": "中正區行政大樓",
+          "en": "Zhongzheng District Administration Building"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.14056,
+          "PositionLon": 121.75866
+        },
+        "StationID": "138581",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303515",
+        "StopID": "303515",
+        "StopName": {
+          "zh_tw": "天主堂",
+          "en": "Chapel"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.14113,
+          "PositionLon": 121.7616
+        },
+        "StationID": "138579",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303510",
+        "StopID": "303510",
+        "StopName": {
+          "zh_tw": "祥豐市場",
+          "en": "XiangFeng Market"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.14213,
+          "PositionLon": 121.76411
+        },
+        "StationID": "138576",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303508",
+        "StopID": "303508",
+        "StopName": {
+          "zh_tw": "二信中學",
+          "en": "Er Xin High School"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.14506,
+          "PositionLon": 121.76835
+        },
+        "StationID": "15048",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303541",
+        "StopID": "303541",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.15101,
+          "PositionLon": 121.77281
+        },
+        "StationID": "24802",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303537",
+        "StopID": "303537",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.15085,
+          "PositionLon": 121.77567
+        },
+        "StationID": "131918",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB254784",
+        "StopID": "254784",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.15016,
+          "PositionLon": 121.780719
+        },
+        "StationID": "124983",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257204",
+        "StopID": "257204",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.148297,
+          "PositionLon": 121.782832
+        },
+        "StationID": "124984",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257725",
+        "StopID": "257725",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.1466,
+          "PositionLon": 121.78345
+        },
+        "StationID": "124985",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303503",
+        "StopID": "303503",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.144,
+          "PositionLon": 121.78659
+        },
+        "StationID": "124805",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305233",
+        "StopID": "305233",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.1423,
+          "PositionLon": 121.78971
+        },
+        "StationID": "139780",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303540",
+        "StopID": "303540",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.14034,
+          "PositionLon": 121.7925
+        },
+        "StationID": "124987",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303501",
+        "StopID": "303501",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 25.13963,
+          "PositionLon": 121.79541
+        },
+        "StationID": "15113",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303499",
+        "StopID": "303499",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 25.13994,
+          "PositionLon": 121.79929
+        },
+        "StationID": "124988",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1579A1",
+    "SubRouteID": "1579A1",
+    "SubRouteName": {
+      "Zh_tw": "1579A",
+      "En": "1579A"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303498",
+        "StopID": "303498",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.14011,
+          "PositionLon": 121.79957
+        },
+        "StationID": "124952",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB309433",
+        "StopID": "309433",
+        "StopName": {
+          "zh_tw": "海科館正門",
+          "en": "National Museum Of Marine Science &amp; Technology(Main Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.140161,
+          "PositionLon": 121.797412
+        },
+        "StationID": "143391",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303500",
+        "StopID": "303500",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.13967,
+          "PositionLon": 121.79545
+        },
+        "StationID": "15112",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259267",
+        "StopID": "259267",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.14091,
+          "PositionLon": 121.7924
+        },
+        "StationID": "124953",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305232",
+        "StopID": "305232",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.14193,
+          "PositionLon": 121.79057
+        },
+        "StationID": "139779",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303502",
+        "StopID": "303502",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.14473,
+          "PositionLon": 121.78555
+        },
+        "StationID": "124955",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB255368",
+        "StopID": "255368",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.14634,
+          "PositionLon": 121.78359
+        },
+        "StationID": "124956",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259366",
+        "StopID": "259366",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.1484,
+          "PositionLon": 121.78296
+        },
+        "StationID": "124957",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303504",
+        "StopID": "303504",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.15013,
+          "PositionLon": 121.78091
+        },
+        "StationID": "24803",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303536",
+        "StopID": "303536",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.15092,
+          "PositionLon": 121.77568
+        },
+        "StationID": "131916",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303509",
+        "StopID": "303509",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.15108,
+          "PositionLon": 121.77305
+        },
+        "StationID": "124992",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303526",
+        "StopID": "303526",
+        "StopName": {
+          "zh_tw": "中正路正濱路口",
+          "en": "Zhongzheng Zhengbin Road Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.151762,
+          "PositionLon": 121.770633
+        },
+        "StationID": "124958",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303528",
+        "StopID": "303528",
+        "StopName": {
+          "zh_tw": "二信分社",
+          "en": "Erxinfenshe"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.15112,
+          "PositionLon": 121.7669
+        },
+        "StationID": "124959",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB258358",
+        "StopID": "258358",
+        "StopName": {
+          "zh_tw": "中濱里",
+          "en": "Zhongbin Village"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.1493326768656,
+          "PositionLon": 121.763578868225
+        },
+        "StationID": "124960",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303531",
+        "StopID": "303531",
+        "StopName": {
+          "zh_tw": "公教住宅",
+          "en": "Civil Service Housing"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.14552,
+          "PositionLon": 121.76151
+        },
+        "StationID": "136205",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB258757",
+        "StopID": "258757",
+        "StopName": {
+          "zh_tw": "安瀾橋",
+          "en": "Anlan Bridge"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.14251,
+          "PositionLon": 121.76076
+        },
+        "StationID": "124961",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303518",
+        "StopID": "303518",
+        "StopName": {
+          "zh_tw": "中正區行政大樓",
+          "en": "Zhongzheng District Administration Building"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.14102,
+          "PositionLon": 121.75878
+        },
+        "StationID": "138580",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303538",
+        "StopID": "303538",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.13757,
+          "PositionLon": 121.749
+        },
+        "StationID": "124964",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB293838",
+        "StopID": "293838",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.134902,
+          "PositionLon": 121.746946
+        },
+        "StationID": "131919",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257429",
+        "StopID": "257429",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.131483,
+          "PositionLon": 121.744528
+        },
+        "StationID": "124965",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303512",
+        "StopID": "303512",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.059658,
+          "PositionLon": 121.585689
+        },
+        "StationID": "125694",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303516",
+        "StopID": "303516",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 25.051499,
+          "PositionLon": 121.56665
+        },
+        "StationID": "128127",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB305234",
+        "StopID": "305234",
+        "StopName": {
+          "zh_tw": "松山高中(基隆路)",
+          "en": "Songshan High School(Keelung Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 25.0444,
+          "PositionLon": 121.56619
+        },
+        "StationID": "127687",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB306027",
+        "StopID": "306027",
+        "StopName": {
+          "zh_tw": "聯合報",
+          "en": "United Daily News"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 25.04133,
+          "PositionLon": 121.56277
+        },
+        "StationID": "125696",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303520",
+        "StopID": "303520",
+        "StopName": {
+          "zh_tw": "交通部觀光署",
+          "en": "Tourism Administration, MOTC"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 25.041483,
+          "PositionLon": 121.555927
+        },
+        "StationID": "125697",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303522",
+        "StopID": "303522",
+        "StopName": {
+          "zh_tw": "捷運忠孝敦化站",
+          "en": "MRT Zhongxiao Dunhua Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 25.041577,
+          "PositionLon": 121.550241
+        },
+        "StationID": "125698",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303524",
+        "StopID": "303524",
+        "StopName": {
+          "zh_tw": "捷運忠孝復興站",
+          "en": "MRT Zhongxiao Fuxing Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 25.041772,
+          "PositionLon": 121.542599
+        },
+        "StationID": "138582",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303002",
+        "StopID": "303002",
+        "StopName": {
+          "zh_tw": "圓山轉運站(玉門)",
+          "en": "MRT Yuanshan Station (Yumen)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 25.072347,
+          "PositionLon": 121.520435
+        },
+        "StationID": "138289",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1579A2",
+    "SubRouteID": "1579A2",
+    "SubRouteName": {
+      "Zh_tw": "1579A",
+      "En": "1579A"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303002",
+        "StopID": "303002",
+        "StopName": {
+          "zh_tw": "圓山轉運站(玉門)",
+          "en": "MRT Yuanshan Station (Yumen)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.072347,
+          "PositionLon": 121.520435
+        },
+        "StationID": "138289",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303525",
+        "StopID": "303525",
+        "StopName": {
+          "zh_tw": "懷生國中",
+          "en": "Huai Sheng Junior High School"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.041537,
+          "PositionLon": 121.541075
+        },
+        "StationID": "25696",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303523",
+        "StopID": "303523",
+        "StopName": {
+          "zh_tw": "捷運忠孝敦化站",
+          "en": "MRT Zhongxiao Dunhua Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.04137749,
+          "PositionLon": 121.5503038
+        },
+        "StationID": "127698",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303521",
+        "StopID": "303521",
+        "StopName": {
+          "zh_tw": "交通部觀光署",
+          "en": "Tourism Administration, MOTC"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.041269,
+          "PositionLon": 121.555789
+        },
+        "StationID": "127699",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303517",
+        "StopID": "303517",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.051246,
+          "PositionLon": 121.566622
+        },
+        "StationID": "128230",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303513",
+        "StopID": "303513",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.05923,
+          "PositionLon": 121.585791
+        },
+        "StationID": "127700",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB252928",
+        "StopID": "252928",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.131226,
+          "PositionLon": 121.74462
+        },
+        "StationID": "124975",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB296562",
+        "StopID": "296562",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.134333,
+          "PositionLon": 121.746649
+        },
+        "StationID": "133583",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303539",
+        "StopID": "303539",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.13742,
+          "PositionLon": 121.74908
+        },
+        "StationID": "124976",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303534",
+        "StopID": "303534",
+        "StopName": {
+          "zh_tw": "榮民服務處",
+          "en": "Veterans Service Office"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.14122,
+          "PositionLon": 121.75923
+        },
+        "StationID": "124978",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303533",
+        "StopID": "303533",
+        "StopName": {
+          "zh_tw": "正榮街口",
+          "en": "Zhengrong Street Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.14304,
+          "PositionLon": 121.7611
+        },
+        "StationID": "124979",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303532",
+        "StopID": "303532",
+        "StopName": {
+          "zh_tw": "公教住宅",
+          "en": "Civil Service Housing"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.14516,
+          "PositionLon": 121.76162
+        },
+        "StationID": "136206",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303530",
+        "StopID": "303530",
+        "StopName": {
+          "zh_tw": "中濱里",
+          "en": "Zhongbin Village"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.1493,
+          "PositionLon": 121.76376
+        },
+        "StationID": "124980",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303529",
+        "StopID": "303529",
+        "StopName": {
+          "zh_tw": "二信分社",
+          "en": "Erxinfenshe"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.15111,
+          "PositionLon": 121.76712
+        },
+        "StationID": "124981",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303527",
+        "StopID": "303527",
+        "StopName": {
+          "zh_tw": "中正路正濱路口",
+          "en": "Zhongzheng Zhengbin Road Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.15162,
+          "PositionLon": 121.77073
+        },
+        "StationID": "124982",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303541",
+        "StopID": "303541",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.15101,
+          "PositionLon": 121.77281
+        },
+        "StationID": "24802",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303537",
+        "StopID": "303537",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.15085,
+          "PositionLon": 121.77567
+        },
+        "StationID": "131918",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB254784",
+        "StopID": "254784",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.15016,
+          "PositionLon": 121.780719
+        },
+        "StationID": "124983",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257204",
+        "StopID": "257204",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.148297,
+          "PositionLon": 121.782832
+        },
+        "StationID": "124984",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257725",
+        "StopID": "257725",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.1466,
+          "PositionLon": 121.78345
+        },
+        "StationID": "124985",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303503",
+        "StopID": "303503",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.144,
+          "PositionLon": 121.78659
+        },
+        "StationID": "124805",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305233",
+        "StopID": "305233",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 25.1423,
+          "PositionLon": 121.78971
+        },
+        "StationID": "139780",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303540",
+        "StopID": "303540",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 25.14034,
+          "PositionLon": 121.7925
+        },
+        "StationID": "124987",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303501",
+        "StopID": "303501",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 25.13963,
+          "PositionLon": 121.79541
+        },
+        "StationID": "15113",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303499",
+        "StopID": "303499",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 25.13994,
+          "PositionLon": 121.79929
+        },
+        "StationID": "124988",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1579B1",
+    "SubRouteID": "1579B1",
+    "SubRouteName": {
+      "Zh_tw": "1579B",
+      "En": "1579B"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303498",
+        "StopID": "303498",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.14011,
+          "PositionLon": 121.79957
+        },
+        "StationID": "124952",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB309433",
+        "StopID": "309433",
+        "StopName": {
+          "zh_tw": "海科館正門",
+          "en": "National Museum Of Marine Science &amp; Technology(Main Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.140161,
+          "PositionLon": 121.797412
+        },
+        "StationID": "143391",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303500",
+        "StopID": "303500",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.13967,
+          "PositionLon": 121.79545
+        },
+        "StationID": "15112",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259267",
+        "StopID": "259267",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.14091,
+          "PositionLon": 121.7924
+        },
+        "StationID": "124953",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305232",
+        "StopID": "305232",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.14193,
+          "PositionLon": 121.79057
+        },
+        "StationID": "139779",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303502",
+        "StopID": "303502",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.14473,
+          "PositionLon": 121.78555
+        },
+        "StationID": "124955",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB255368",
+        "StopID": "255368",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.14634,
+          "PositionLon": 121.78359
+        },
+        "StationID": "124956",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259366",
+        "StopID": "259366",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.1484,
+          "PositionLon": 121.78296
+        },
+        "StationID": "124957",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303504",
+        "StopID": "303504",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.15013,
+          "PositionLon": 121.78091
+        },
+        "StationID": "24803",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303536",
+        "StopID": "303536",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.15092,
+          "PositionLon": 121.77568
+        },
+        "StationID": "131916",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303509",
+        "StopID": "303509",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.15108,
+          "PositionLon": 121.77305
+        },
+        "StationID": "124992",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303507",
+        "StopID": "303507",
+        "StopName": {
+          "zh_tw": "二信中學",
+          "en": "Er Xin High School"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.14482,
+          "PositionLon": 121.76789
+        },
+        "StationID": "15047",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303511",
+        "StopID": "303511",
+        "StopName": {
+          "zh_tw": "祥豐市場",
+          "en": "XiangFeng Market"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.14228,
+          "PositionLon": 121.7643
+        },
+        "StationID": "138577",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303514",
+        "StopID": "303514",
+        "StopName": {
+          "zh_tw": "天主堂",
+          "en": "Chapel"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.141389,
+          "PositionLon": 121.7616
+        },
+        "StationID": "138578",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303518",
+        "StopID": "303518",
+        "StopName": {
+          "zh_tw": "中正區行政大樓",
+          "en": "Zhongzheng District Administration Building"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.14102,
+          "PositionLon": 121.75878
+        },
+        "StationID": "138580",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303538",
+        "StopID": "303538",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.13757,
+          "PositionLon": 121.749
+        },
+        "StationID": "124964",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB293838",
+        "StopID": "293838",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.134902,
+          "PositionLon": 121.746946
+        },
+        "StationID": "131919",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257429",
+        "StopID": "257429",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.131483,
+          "PositionLon": 121.744528
+        },
+        "StationID": "124965",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303512",
+        "StopID": "303512",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.059658,
+          "PositionLon": 121.585689
+        },
+        "StationID": "125694",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303516",
+        "StopID": "303516",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.051499,
+          "PositionLon": 121.56665
+        },
+        "StationID": "128127",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB305234",
+        "StopID": "305234",
+        "StopName": {
+          "zh_tw": "松山高中(基隆路)",
+          "en": "Songshan High School(Keelung Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.0444,
+          "PositionLon": 121.56619
+        },
+        "StationID": "127687",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1579B2",
+    "SubRouteID": "1579B2",
+    "SubRouteName": {
+      "Zh_tw": "1579B",
+      "En": "1579B"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303517",
+        "StopID": "303517",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.051246,
+          "PositionLon": 121.566622
+        },
+        "StationID": "128230",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303513",
+        "StopID": "303513",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.05923,
+          "PositionLon": 121.585791
+        },
+        "StationID": "127700",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB252928",
+        "StopID": "252928",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.131226,
+          "PositionLon": 121.74462
+        },
+        "StationID": "124975",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB296562",
+        "StopID": "296562",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.134333,
+          "PositionLon": 121.746649
+        },
+        "StationID": "133583",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303539",
+        "StopID": "303539",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.13742,
+          "PositionLon": 121.74908
+        },
+        "StationID": "124976",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303519",
+        "StopID": "303519",
+        "StopName": {
+          "zh_tw": "中正區行政大樓",
+          "en": "Zhongzheng District Administration Building"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.14056,
+          "PositionLon": 121.75866
+        },
+        "StationID": "138581",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303515",
+        "StopID": "303515",
+        "StopName": {
+          "zh_tw": "天主堂",
+          "en": "Chapel"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.14113,
+          "PositionLon": 121.7616
+        },
+        "StationID": "138579",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303510",
+        "StopID": "303510",
+        "StopName": {
+          "zh_tw": "祥豐市場",
+          "en": "XiangFeng Market"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.14213,
+          "PositionLon": 121.76411
+        },
+        "StationID": "138576",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303508",
+        "StopID": "303508",
+        "StopName": {
+          "zh_tw": "二信中學",
+          "en": "Er Xin High School"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.14506,
+          "PositionLon": 121.76835
+        },
+        "StationID": "15048",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303541",
+        "StopID": "303541",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.15101,
+          "PositionLon": 121.77281
+        },
+        "StationID": "24802",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303537",
+        "StopID": "303537",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.15085,
+          "PositionLon": 121.77567
+        },
+        "StationID": "131918",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB254784",
+        "StopID": "254784",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.15016,
+          "PositionLon": 121.780719
+        },
+        "StationID": "124983",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257204",
+        "StopID": "257204",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.148297,
+          "PositionLon": 121.782832
+        },
+        "StationID": "124984",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257725",
+        "StopID": "257725",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.1466,
+          "PositionLon": 121.78345
+        },
+        "StationID": "124985",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303503",
+        "StopID": "303503",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.144,
+          "PositionLon": 121.78659
+        },
+        "StationID": "124805",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305233",
+        "StopID": "305233",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.1423,
+          "PositionLon": 121.78971
+        },
+        "StationID": "139780",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303540",
+        "StopID": "303540",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.14034,
+          "PositionLon": 121.7925
+        },
+        "StationID": "124987",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303501",
+        "StopID": "303501",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.13963,
+          "PositionLon": 121.79541
+        },
+        "StationID": "15113",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303499",
+        "StopID": "303499",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.13994,
+          "PositionLon": 121.79929
+        },
+        "StationID": "124988",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1579C1",
+    "SubRouteID": "1579C1",
+    "SubRouteName": {
+      "Zh_tw": "1579C",
+      "En": "1579C"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303498",
+        "StopID": "303498",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.14011,
+          "PositionLon": 121.79957
+        },
+        "StationID": "124952",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB309433",
+        "StopID": "309433",
+        "StopName": {
+          "zh_tw": "海科館正門",
+          "en": "National Museum Of Marine Science &amp; Technology(Main Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.140161,
+          "PositionLon": 121.797412
+        },
+        "StationID": "143391",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303500",
+        "StopID": "303500",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.13967,
+          "PositionLon": 121.79545
+        },
+        "StationID": "15112",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259267",
+        "StopID": "259267",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.14091,
+          "PositionLon": 121.7924
+        },
+        "StationID": "124953",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305232",
+        "StopID": "305232",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.14193,
+          "PositionLon": 121.79057
+        },
+        "StationID": "139779",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303502",
+        "StopID": "303502",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.14473,
+          "PositionLon": 121.78555
+        },
+        "StationID": "124955",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB255368",
+        "StopID": "255368",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.14634,
+          "PositionLon": 121.78359
+        },
+        "StationID": "124956",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB259366",
+        "StopID": "259366",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.1484,
+          "PositionLon": 121.78296
+        },
+        "StationID": "124957",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303504",
+        "StopID": "303504",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.15013,
+          "PositionLon": 121.78091
+        },
+        "StationID": "24803",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303536",
+        "StopID": "303536",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.15092,
+          "PositionLon": 121.77568
+        },
+        "StationID": "131916",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303509",
+        "StopID": "303509",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.15108,
+          "PositionLon": 121.77305
+        },
+        "StationID": "124992",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303526",
+        "StopID": "303526",
+        "StopName": {
+          "zh_tw": "中正路正濱路口",
+          "en": "Zhongzheng Zhengbin Road Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.151762,
+          "PositionLon": 121.770633
+        },
+        "StationID": "124958",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303528",
+        "StopID": "303528",
+        "StopName": {
+          "zh_tw": "二信分社",
+          "en": "Erxinfenshe"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.15112,
+          "PositionLon": 121.7669
+        },
+        "StationID": "124959",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB258358",
+        "StopID": "258358",
+        "StopName": {
+          "zh_tw": "中濱里",
+          "en": "Zhongbin Village"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.1493326768656,
+          "PositionLon": 121.763578868225
+        },
+        "StationID": "124960",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303531",
+        "StopID": "303531",
+        "StopName": {
+          "zh_tw": "公教住宅",
+          "en": "Civil Service Housing"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.14552,
+          "PositionLon": 121.76151
+        },
+        "StationID": "136205",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB258757",
+        "StopID": "258757",
+        "StopName": {
+          "zh_tw": "安瀾橋",
+          "en": "Anlan Bridge"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.14251,
+          "PositionLon": 121.76076
+        },
+        "StationID": "124961",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303518",
+        "StopID": "303518",
+        "StopName": {
+          "zh_tw": "中正區行政大樓",
+          "en": "Zhongzheng District Administration Building"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.14102,
+          "PositionLon": 121.75878
+        },
+        "StationID": "138580",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303538",
+        "StopID": "303538",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.13757,
+          "PositionLon": 121.749
+        },
+        "StationID": "124964",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB293838",
+        "StopID": "293838",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.134902,
+          "PositionLon": 121.746946
+        },
+        "StationID": "131919",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257429",
+        "StopID": "257429",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.131483,
+          "PositionLon": 121.744528
+        },
+        "StationID": "124965",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303512",
+        "StopID": "303512",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.059658,
+          "PositionLon": 121.585689
+        },
+        "StationID": "125694",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303516",
+        "StopID": "303516",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 25.051499,
+          "PositionLon": 121.56665
+        },
+        "StationID": "128127",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB305234",
+        "StopID": "305234",
+        "StopName": {
+          "zh_tw": "松山高中(基隆路)",
+          "en": "Songshan High School(Keelung Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 25.0444,
+          "PositionLon": 121.56619
+        },
+        "StationID": "127687",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB306027",
+        "StopID": "306027",
+        "StopName": {
+          "zh_tw": "聯合報",
+          "en": "United Daily News"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 25.04133,
+          "PositionLon": 121.56277
+        },
+        "StationID": "125696",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303520",
+        "StopID": "303520",
+        "StopName": {
+          "zh_tw": "交通部觀光署",
+          "en": "Tourism Administration, MOTC"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 25.041483,
+          "PositionLon": 121.555927
+        },
+        "StationID": "125697",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303522",
+        "StopID": "303522",
+        "StopName": {
+          "zh_tw": "捷運忠孝敦化站",
+          "en": "MRT Zhongxiao Dunhua Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 25.041577,
+          "PositionLon": 121.550241
+        },
+        "StationID": "125698",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303524",
+        "StopID": "303524",
+        "StopName": {
+          "zh_tw": "捷運忠孝復興站",
+          "en": "MRT Zhongxiao Fuxing Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 25.041772,
+          "PositionLon": 121.542599
+        },
+        "StationID": "138582",
+        "LocationCityCode": "TPE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1579",
+    "RouteID": "1579",
+    "RouteName": {
+      "Zh_tw": "1579",
+      "En": "1579"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB1579C2",
+    "SubRouteID": "1579C2",
+    "SubRouteName": {
+      "Zh_tw": "1579C",
+      "En": "1579C"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303525",
+        "StopID": "303525",
+        "StopName": {
+          "zh_tw": "懷生國中",
+          "en": "Huai Sheng Junior High School"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.041537,
+          "PositionLon": 121.541075
+        },
+        "StationID": "25696",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303523",
+        "StopID": "303523",
+        "StopName": {
+          "zh_tw": "捷運忠孝敦化站",
+          "en": "MRT Zhongxiao Dunhua Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.04137749,
+          "PositionLon": 121.5503038
+        },
+        "StationID": "127698",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303521",
+        "StopID": "303521",
+        "StopName": {
+          "zh_tw": "交通部觀光署",
+          "en": "Tourism Administration, MOTC"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 25.041269,
+          "PositionLon": 121.555789
+        },
+        "StationID": "127699",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB289783",
+        "StopID": "289783",
+        "StopName": {
+          "zh_tw": "市府轉運站",
+          "en": "Taipei City Hall Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.04077,
+          "PositionLon": 121.56449
+        },
+        "StationID": "35830",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303517",
+        "StopID": "303517",
+        "StopName": {
+          "zh_tw": "南京公寓(捷運南京三民)",
+          "en": "Nanjing Apartments(MRT Nanjing Sanmin Station)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 25.051246,
+          "PositionLon": 121.566622
+        },
+        "StationID": "128230",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB303513",
+        "StopID": "303513",
+        "StopName": {
+          "zh_tw": "潭美公園",
+          "en": "Tanmei Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 25.05923,
+          "PositionLon": 121.585791
+        },
+        "StationID": "127700",
+        "LocationCityCode": "TPE"
+      },
+      {
+        "StopUID": "THB252928",
+        "StopID": "252928",
+        "StopName": {
+          "zh_tw": "市政府",
+          "en": "City Hall"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 25.131226,
+          "PositionLon": 121.74462
+        },
+        "StationID": "124975",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB296562",
+        "StopID": "296562",
+        "StopName": {
+          "zh_tw": "信五路口",
+          "en": "xinwu Road Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 25.134333,
+          "PositionLon": 121.746649
+        },
+        "StationID": "133583",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303539",
+        "StopID": "303539",
+        "StopName": {
+          "zh_tw": "就業中心",
+          "en": "Keelung Employmen Service Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 25.13742,
+          "PositionLon": 121.74908
+        },
+        "StationID": "124976",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303534",
+        "StopID": "303534",
+        "StopName": {
+          "zh_tw": "榮民服務處",
+          "en": "Veterans Service Office"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.14122,
+          "PositionLon": 121.75923
+        },
+        "StationID": "124978",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303533",
+        "StopID": "303533",
+        "StopName": {
+          "zh_tw": "正榮街口",
+          "en": "Zhengrong Street Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.14304,
+          "PositionLon": 121.7611
+        },
+        "StationID": "124979",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303532",
+        "StopID": "303532",
+        "StopName": {
+          "zh_tw": "公教住宅",
+          "en": "Civil Service Housing"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 25.14516,
+          "PositionLon": 121.76162
+        },
+        "StationID": "136206",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303530",
+        "StopID": "303530",
+        "StopName": {
+          "zh_tw": "中濱里",
+          "en": "Zhongbin Village"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 25.1493,
+          "PositionLon": 121.76376
+        },
+        "StationID": "124980",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303529",
+        "StopID": "303529",
+        "StopName": {
+          "zh_tw": "二信分社",
+          "en": "Erxinfenshe"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 25.15111,
+          "PositionLon": 121.76712
+        },
+        "StationID": "124981",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303527",
+        "StopID": "303527",
+        "StopName": {
+          "zh_tw": "中正路正濱路口",
+          "en": "Zhongzheng Zhengbin Road Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 25.15162,
+          "PositionLon": 121.77073
+        },
+        "StationID": "124982",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303541",
+        "StopID": "303541",
+        "StopName": {
+          "zh_tw": "海大(祥豐校門)",
+          "en": "National Taiwan Ocean University(Xiangfeng Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 25.15101,
+          "PositionLon": 121.77281
+        },
+        "StationID": "24802",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303537",
+        "StopID": "303537",
+        "StopName": {
+          "zh_tw": "海大(濱海校門)",
+          "en": "Ocean University (Binhai the school Entrance)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 25.15085,
+          "PositionLon": 121.77567
+        },
+        "StationID": "131918",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB254784",
+        "StopID": "254784",
+        "StopName": {
+          "zh_tw": "海大(體育館)",
+          "en": "National Taiwan Ocean University Gymnasiumn"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 25.15016,
+          "PositionLon": 121.780719
+        },
+        "StationID": "124983",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257204",
+        "StopID": "257204",
+        "StopName": {
+          "zh_tw": "北寧路(988餐廳)",
+          "en": "Beining Rd.(988 Restaurant)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 25.148297,
+          "PositionLon": 121.782832
+        },
+        "StationID": "124984",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB257725",
+        "StopID": "257725",
+        "StopName": {
+          "zh_tw": "藍投溝",
+          "en": "Lantougou"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 25.1466,
+          "PositionLon": 121.78345
+        },
+        "StationID": "124985",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303503",
+        "StopID": "303503",
+        "StopName": {
+          "zh_tw": "漁貨直銷中心(碧砂漁港)",
+          "en": "Taiwan Tourist Seafood Market(Bisha Fish Harbor)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 25.144,
+          "PositionLon": 121.78659
+        },
+        "StationID": "124805",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB305233",
+        "StopID": "305233",
+        "StopName": {
+          "zh_tw": "義胞新村",
+          "en": "Yibao Village"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 25.1423,
+          "PositionLon": 121.78971
+        },
+        "StationID": "139780",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303540",
+        "StopID": "303540",
+        "StopName": {
+          "zh_tw": "嶺林巷",
+          "en": "Linglinxiang"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 25.14034,
+          "PositionLon": 121.7925
+        },
+        "StationID": "124987",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303501",
+        "StopID": "303501",
+        "StopName": {
+          "zh_tw": "八斗子",
+          "en": "Badouzi"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 25.13963,
+          "PositionLon": 121.79541
+        },
+        "StationID": "15113",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303499",
+        "StopID": "303499",
+        "StopName": {
+          "zh_tw": "海科館(碧水巷)",
+          "en": "National Museum of Marine Science &amp; Technology(Bishuixiang)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 25.13994,
+          "PositionLon": 121.79929
+        },
+        "StationID": "124988",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB303576",
+        "StopID": "303576",
+        "StopName": {
+          "zh_tw": "八斗子車站",
+          "en": "TRA Badouzi Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 25.136526,
+          "PositionLon": 121.801939
+        },
+        "StationID": "138611",
+        "LocationCityCode": "KEE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1580",
+    "RouteID": "1580",
+    "RouteName": {
+      "Zh_tw": "1580",
+      "En": "1580"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB158001",
+    "SubRouteID": "158001",
+    "SubRouteName": {
+      "Zh_tw": "1580",
+      "En": "1580"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB303866",
+        "StopID": "303866",
+        "StopName": {
+          "zh_tw": "板橋客運站",
+          "en": "Banqiao Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.01551,
+          "PositionLon": 121.46511
+        },
+        "StationID": "22707",
+        "LocationCityCode": "NWT"
+      },
+      {
+        "StopUID": "THB303867",
+        "StopID": "303867",
+        "StopName": {
+          "zh_tw": "蘇澳站",
+          "en": "Suao Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.598558,
+          "PositionLon": 121.834133
+        },
+        "StationID": "138762",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB303868",
+        "StopID": "303868",
+        "StopName": {
+          "zh_tw": "新城火車站",
+          "en": "TRA Xincheng Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.127645,
+          "PositionLon": 121.641214
+        },
+        "StationID": "109827",
+        "LocationCityCode": "HUA"
+      },
+      {
+        "StopUID": "THB307559",
+        "StopID": "307559",
+        "StopName": {
+          "zh_tw": "花蓮轉運站",
+          "en": "Hualien Bus Sation"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 23.993063,
+          "PositionLon": 121.603181
+        },
+        "StationID": "141889",
+        "LocationCityCode": "HUA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1580",
+    "RouteID": "1580",
+    "RouteName": {
+      "Zh_tw": "1580",
+      "En": "1580"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB158002",
+    "SubRouteID": "158002",
+    "SubRouteName": {
+      "Zh_tw": "1580",
+      "En": "1580"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB307560",
+        "StopID": "307560",
+        "StopName": {
+          "zh_tw": "花蓮轉運站",
+          "en": "Hualien Bus Sation"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 23.993063,
+          "PositionLon": 121.603181
+        },
+        "StationID": "141890",
+        "LocationCityCode": "HUA"
+      },
+      {
+        "StopUID": "THB303868",
+        "StopID": "303868",
+        "StopName": {
+          "zh_tw": "新城火車站",
+          "en": "TRA Xincheng Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.127645,
+          "PositionLon": 121.641214
+        },
+        "StationID": "109827",
+        "LocationCityCode": "HUA"
+      },
+      {
+        "StopUID": "THB303871",
+        "StopID": "303871",
+        "StopName": {
+          "zh_tw": "蘇澳國中",
+          "en": "Su-ao Junior High School"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.597111,
+          "PositionLon": 121.835193
+        },
+        "StationID": "114655",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB303866",
+        "StopID": "303866",
+        "StopName": {
+          "zh_tw": "板橋客運站",
+          "en": "Banqiao Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 25.01551,
+          "PositionLon": 121.46511
+        },
+        "StationID": "22707",
+        "LocationCityCode": "NWT"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1880",
+    "RouteID": "1880",
+    "RouteName": {
+      "Zh_tw": "1880",
+      "En": "1880"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB188001",
+    "SubRouteID": "188001",
+    "SubRouteName": {
+      "Zh_tw": "1880",
+      "En": "1880"
+    },
+    "Direction": 0,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB282650",
+        "StopID": "282650",
+        "StopName": {
+          "zh_tw": "中興文創",
+          "en": "Chung Hsing Cultural And Creative Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.695317,
+          "PositionLon": 121.769468
+        },
+        "StationID": "109701",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB282651",
+        "StopID": "282651",
+        "StopName": {
+          "zh_tw": "宜蘭縣政府",
+          "en": "Yilan County Government"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.731336,
+          "PositionLon": 121.76481
+        },
+        "StationID": "108036",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB282652",
+        "StopID": "282652",
+        "StopName": {
+          "zh_tw": "宜蘭運動公園",
+          "en": "Yilan Sport Park"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.740414,
+          "PositionLon": 121.758901
+        },
+        "StationID": "107815",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB271120",
+        "StopID": "271120",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.751301,
+          "PositionLon": 121.759368
+        },
+        "StationID": "110088",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB247514",
+        "StopID": "247514",
+        "StopName": {
+          "zh_tw": "四城",
+          "en": "Sicheng"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.78716,
+          "PositionLon": 121.76176
+        },
+        "StationID": "109466",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB277801",
+        "StopID": "277801",
+        "StopName": {
+          "zh_tw": "協天廟",
+          "en": "SieTian Temple"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.818813,
+          "PositionLon": 121.76881
+        },
+        "StationID": "108145",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257787",
+        "StopID": "257787",
+        "StopName": {
+          "zh_tw": "白雲路(頭城交流道)",
+          "en": "Baiyun Rd.(Toucheng Interchange)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.836878,
+          "PositionLon": 121.786881
+        },
+        "StationID": "124011",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB292411",
+        "StopID": "292411",
+        "StopName": {
+          "zh_tw": "汐止",
+          "en": "Xizhi"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 25.06914,
+          "PositionLon": 121.66208
+        },
+        "StationID": "115810",
+        "LocationCityCode": "NWT"
+      },
+      {
+        "StopUID": "THB286052",
+        "StopID": "286052",
+        "StopName": {
+          "zh_tw": "基隆火車站(海洋廣場)",
+          "en": "TRA Keelung Station(Maritime Plaza)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 25.131327,
+          "PositionLon": 121.740524
+        },
+        "StationID": "139565",
+        "LocationCityCode": "KEE"
+      }
+    ]
+  },
+  {
+    "RouteUID": "THB1880",
+    "RouteID": "1880",
+    "RouteName": {
+      "Zh_tw": "1880",
+      "En": "1880"
+    },
+    "Operators": [
+      {
+        "OperatorID": "39",
+        "OperatorName": {
+          "Zh_tw": "首都客運",
+          "En": "Capital Bus Co., Ltd."
+        },
+        "OperatorCode": "CapitalBus",
+        "OperatorNo": "0913"
+      }
+    ],
+    "SubRouteUID": "THB188002",
+    "SubRouteID": "188002",
+    "SubRouteName": {
+      "Zh_tw": "1880",
+      "En": "1880"
+    },
+    "Direction": 1,
+    "CityCode": null,
+    "Stops": [
+      {
+        "StopUID": "THB267903",
+        "StopID": "267903",
+        "StopName": {
+          "zh_tw": "基隆站(國光)",
+          "en": "Keelung Station(KUO-KUANG)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 25.132208,
+          "PositionLon": 121.739685
+        },
+        "StationID": "124095",
+        "LocationCityCode": "KEE"
+      },
+      {
+        "StopUID": "THB292411",
+        "StopID": "292411",
+        "StopName": {
+          "zh_tw": "汐止",
+          "en": "Xizhi"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 25.06914,
+          "PositionLon": 121.66208
+        },
+        "StationID": "115810",
+        "LocationCityCode": "NWT"
+      },
+      {
+        "StopUID": "THB257172",
+        "StopID": "257172",
+        "StopName": {
+          "zh_tw": "頭城交流道",
+          "en": "Toucheng Interchange"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.83665,
+          "PositionLon": 121.78559
+        },
+        "StationID": "124012",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB257812",
+        "StopID": "257812",
+        "StopName": {
+          "zh_tw": "礁溪轉運站",
+          "en": "Jiaosi Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.830912,
+          "PositionLon": 121.777933
+        },
+        "StationID": "133567",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB299016",
+        "StopID": "299016",
+        "StopName": {
+          "zh_tw": "湯圍溝",
+          "en": "Tangweigo"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.82665,
+          "PositionLon": 121.77164
+        },
+        "StationID": "135468",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB277897",
+        "StopID": "277897",
+        "StopName": {
+          "zh_tw": "協天廟",
+          "en": "SieTian Temple"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.81881,
+          "PositionLon": 121.768669
+        },
+        "StationID": "109962",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB247515",
+        "StopID": "247515",
+        "StopName": {
+          "zh_tw": "四城",
+          "en": "Sicheng"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.787387,
+          "PositionLon": 121.761526
+        },
+        "StationID": "109467",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB277804",
+        "StopID": "277804",
+        "StopName": {
+          "zh_tw": "宜蘭轉運站",
+          "en": "Yilan Transfer Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.751419,
+          "PositionLon": 121.759251
+        },
+        "StationID": "108317",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB281355",
+        "StopID": "281355",
+        "StopName": {
+          "zh_tw": "宜蘭運動公園",
+          "en": "Yilan Sport Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.740171,
+          "PositionLon": 121.758815
+        },
+        "StationID": "107814",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB256722",
+        "StopID": "256722",
+        "StopName": {
+          "zh_tw": "宜蘭縣政府",
+          "en": "Yilan County Government"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.730901,
+          "PositionLon": 121.764744
+        },
+        "StationID": "108038",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB282653",
+        "StopID": "282653",
+        "StopName": {
+          "zh_tw": "中興文創",
+          "en": "Chung Hsing Cultural And Creative Park"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.69527,
+          "PositionLon": 121.76926
+        },
+        "StationID": "109674",
+        "LocationCityCode": "ILA"
+      },
+      {
+        "StopUID": "THB293440",
+        "StopID": "293440",
+        "StopName": {
+          "zh_tw": "羅東轉運站",
+          "en": "Luodong Bus Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.677835,
+          "PositionLon": 121.775666
+        },
+        "StationID": "131611",
+        "LocationCityCode": "ILA"
+      }
+    ]
+  }
+]
