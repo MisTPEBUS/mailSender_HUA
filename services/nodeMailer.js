@@ -101,8 +101,8 @@ const sendMail = (email) => {
           </div>
           <div class="content" style="text-align:end">
              <div  >
-                <h1> 首都客運股份有限公司 　　敬啟</h1><p>
-                <h1> 臺北汽車客運股份有限公司 敬啟</h1><br>
+                <h3> 首都客運股份有限公司 　　敬啟</h3><p>
+                <h3> 臺北汽車客運股份有限公司 敬啟</h3><br>
                </div>
           </div>
            <div class="footer">
