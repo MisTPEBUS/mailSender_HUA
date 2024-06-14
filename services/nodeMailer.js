@@ -22,7 +22,7 @@ const mailOptions = {
 
 const sendMail = (email) => {
   mailOptions.to=email;
-  mailOptions.html =`<!DOCTYPE html>
+  mailOptions.html =`
   <html xmlns:st1 xmlns:o>
   <head>
       <title>首都客運-會員EMAIL通知</title>
@@ -42,14 +42,18 @@ const sendMail = (email) => {
               background-color: #ffffff;
               padding: 20px;
               box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            
           }
           .header {
               text-align: center;
               margin-bottom: 20px;
           }
-          .header h2 {
+          .header h1 {
               margin: 0;
-              color: #333;
+              color: white;
+              font-size: xx-large;
+              font-weight: bold; 
+           
           }
           .notification {
               color: red;
@@ -60,6 +64,7 @@ const sendMail = (email) => {
               font-size: 14px;
               color: #333;
               line-height: 1.6;
+            font-size:large;
           }
           .content a {
               color: #1a73e8;
@@ -78,21 +83,27 @@ const sendMail = (email) => {
   </head>
   <body>
       <div class="container">
-          <div class="header">
-              <h2>首都客運</h2>
+          <div class="header" style="    background: rgba(21, 110, 218, 0.9); font-family: 'SimSun', '宋体', serif;">
+              <h1>國道客運售票網</h1>
           </div>
+        
           <div class="notification">
               本通知函為系統自動寄出，請勿直接回覆
           </div>
           <div class="content">
               親愛的顧客您好！<br><br>
               感謝您成為首都客運會員。由於您長時間未登入或操作，<br><br>
-              請您在下次購票時透過下方連結或是到官方網站進行重新會員驗證：<br><br>
+              請您收到此封信，於下次購票前進行重新驗證：<br><br>
               ．會員信箱：${email}<br><br>
-              ．重新會員驗證網址列：
-              <a href='https://www.capitalbusgroup.com.tw/CTBUS/member/login.html'>請點我進行登入驗證</a><br><br>
+            
               如欲更新您的個人資料、密碼或查詢訂單資料，請於驗證後至【會員專區】修改及查詢。<br><br>
-              首都客運關心您，祝您旅途愉快！
+              國道客運關心您，祝您旅途愉快！
+          </div>
+          <div class="content" style="text-align:end">
+             <div  >
+                <h1> 首都客運股份有限公司 　　敬啟</h1><p>
+                <h1> 臺北汽車客運股份有限公司 敬啟</h1><br>
+               </div>
           </div>
            <div class="footer">
               <img src="https://storage.googleapis.com/fir-express-80358.appspot.com/images/6005bd29-3f95-4395-86c5-0cd4f20b3282.png?GoogleAccessId=firebase-adminsdk-42otj%40fir-express-80358.iam.gserviceaccount.com&Expires=16756675200&Signature=ptC2mOG4%2Fy6oqUinavNO8vx%2BHRy6%2Brcmop0a8FDBkQPHOiAb%2Bg7N0JqMP5FiHzkAJvrySEbJF7QgWyG7jACwkmG4wb06WKGuMfuI9VmRF8DbSyHf6fP0WOrVaJqbsexlePu36lh6JcLIGeaIuFDuLcrVfGBt9tMmh18Pp7OG4oQ5cqQkJDR1KUhWtyOAIb47mF4XV4HRWpSuBe8ZIAqH4eJMPLu04ATxP0LEXkihsbvhiTL9LYVkK18jBESThTNTP8dSsmkGhDmjObspmDtdT%2BfZi39H%2BSO%2FHK3LjDW05sz3WwhSDTZAxtyiK8CiRcti8FHRUo3PRdLLOsgm8IOHSw%3D%3D" width="280px" alt="首都客運 Logo">
