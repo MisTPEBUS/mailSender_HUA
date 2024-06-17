@@ -34,6 +34,7 @@ const sendMail = (email) => {
               padding: 0;
               font-family: '微軟正黑體', '新細明體', Arial, sans-serif;
               background-color: #f4f4f4;
+            
           }
           .container {
               width: 100%;
@@ -42,8 +43,13 @@ const sendMail = (email) => {
               background-color: #ffffff;
               padding: 20px;
               box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            
+           background-image: linear-gradient(175deg, white 60%, rgba(255, 211, 112, 0.5) 100%);
           }
+         .rounded-div {
+            
+            border: 2px solid rgba(21, 110, 218, 0.9); 
+            border-radius: 20px; /* 調整這個值以改變橢圓形的程度 */
+        }
           .header {
               text-align: center;
               margin-bottom: 20px;
@@ -78,11 +84,12 @@ const sendMail = (email) => {
               font-size: 12px;
               color: #777;
               margin-top: 20px;
+             
           }
       </style>
   </head>
   <body>
-      <div class="container">
+      <div class="container rounded-div">
           <div class="header" style="    background: rgba(21, 110, 218, 0.9); font-family: 'SimSun', '宋体', serif;">
               <h1>國道客運售票網</h1>
           </div>
@@ -91,14 +98,14 @@ const sendMail = (email) => {
               本通知函為系統自動寄出，請勿直接回覆
           </div>
           <div class="content">
-              親愛的顧客您好！<br><br>
-              感謝您成為[首都客運]、[臺北汽車客運]國道客運售票網會員。<br><br>
-              由於您長時間未登入或操作，請您收到此封信 ，
-            　 於下次購票前進行重新驗證：<br><br>
-              ．會員信箱：${email}<br><br>
+              親愛的顧客您好！
+              <br><br>感謝您成為[首都客運]、[臺北汽車客運]國道客運售票網會員。
+              <br><br>由於您長時間未登入或操作，請您收到此封信 ，
+            　<br><br>於下次購票前進行重新驗證：
+              <br><br>．會員信箱：${email}
             
-              如欲更新您的個人資料、密碼或查詢訂單資料，請於驗證後至【會員專區】修改及查詢。<br><br>
-              國道客運關心您，祝您旅途愉快！
+              <br><br>如欲更新您的個人資料、密碼或查詢訂單資料，請於驗證後至<span style="">【會員專區】<span>修改及查詢。
+               <br><br>國道客運關心您，祝您旅途愉快！
           </div>
           <div class="content" style="text-align:end">
              <div  >
