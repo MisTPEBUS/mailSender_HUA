@@ -10,11 +10,11 @@ dotenv.config({ path: './config.env' });
 
 const message = `[國道售票系統]會員檢測通知:\n` +
 `本日更新發送人數 : 0人\n` +
-`目前會員使用人數:  0人\n` +
+`目前會員使用人數:  38394人\n` +
 `權限逾時人數:  0`;
 
 // 调用函数发送通知
-//sendLineNotify(message);
+sendLineNotify(message);
 
 
 // 設置定時任務
