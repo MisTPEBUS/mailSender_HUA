@@ -8,9 +8,9 @@ const {sendMail} = require('./services/nodeMailer');
 const {sendLineNotify} = require('./services/lineNotify');
 dotenv.config({ path: './config.env' });
 
-const message = `[首都客運]會員檢測系統通知:\n` +
-`本日更新人數 : 0\n` +
-`目前上線人數:  0\n` +
+const message = `[國道售票系統]會員檢測通知:\n` +
+`本日更新發送人數 : 0人\n` +
+`目前會員使用人數:  0人\n` +
 `權限逾時人數:  0`;
 
 // 调用函数发送通知
